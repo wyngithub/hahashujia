@@ -1,4 +1,4 @@
 server:
   port: 8000
 foo: foo version 1
-message: 此消息来自于https://github.com/wyngithub/hahashujia/client-dev.yml2
+message: 此消息来自于https://github.com/wyngithub/hahashujia/config-client-dev.yml
